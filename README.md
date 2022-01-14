@@ -1,3 +1,3 @@
-# Lab1
+# Lab 1
 Making a new website
-Making some edits.
+<p>I made a site</p>
